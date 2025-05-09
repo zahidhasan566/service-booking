@@ -7,6 +7,7 @@ A simple service booking platform backend built using Laravel.
 - [Setup & Run Instructions](#setup--run-instructions)
 - [API Documentation](#api-documentation)
 - [How to Run Tests](#how-to-run-tests)
+- [Folder Structure](#folder-structure)
 - [Assumptions](#assumptions)
 
 ---
@@ -137,7 +138,7 @@ GET /api/bookings/1
    ```
 
 
-### 📁 Folder Structure
+## Folder Structure
 
 ```
 service-booking/
